@@ -7,6 +7,8 @@ source 'https://rubygems.org'
 gem 'rails', '4.2.1'
 # bootstrap for front end design
 gem 'bootstrap-sass',       '3.2.0.0'
+# password digest
+gem 'bcrypt',               '3.1.7'
 # Use postgresql as the database for Active Record
 gem 'pg'
 # Use SCSS for stylesheets
